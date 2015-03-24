@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Sander Wubben
 locale:           en_US
 url:              
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Sander Wubben
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Assistant Professor in Computational Linguistice and Natural Language Generation."
+  email: s.wubben@uvt.nl
   disqus-shortname: 
-  twitter: #username
+  twitter: swubbb
   facebook: #username
   google:
     plus: #username
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: swubb
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: swubb
   xing: #username
   instagram: #username
   lastfm: #username
@@ -54,7 +54,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: #username
+  flickr: wubboomstam
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
