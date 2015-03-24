@@ -27,8 +27,8 @@ kramdown:
 # Site owner
 owner:
   name: Sander Wubben
-  avatar: bio-photo.jpg
-  bio: "Assistant Professor in Computational Linguistice and Natural Language Generation."
+  avatar: https://pbs.twimg.com/profile_images/1296031243/eightbit-a5e4c942-d100-4d84-be15-ed3c1337ba42_400x400.png
+  bio: "Assistant Professor in Computational Linguistics and Natural Language Generation."
   email: s.wubben@uvt.nl
   disqus-shortname: 
   twitter: swubbb
