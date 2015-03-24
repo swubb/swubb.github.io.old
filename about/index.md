@@ -6,20 +6,6 @@ modified: 2015
 comments: true
 image:
   feature: header1.jpg
- 
+
 ---
-
-DERKA DERKA DERKA DERKA DERKA
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
-
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+It appears you have reached my academic homepage. My name is Sander Wubben and I'm an assistant professor in computational linguistics at TiLC, which is part of the research institute TiCC, belonging to the department of communication and information sciences at the faculty of humanities of Tilburg University. Please click the buttons above to visit the respective sections of this website.
