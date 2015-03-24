@@ -5,7 +5,7 @@ tags: [about, Sander, Wubben, description, bio]
 modified: 2015
 comments: true
 image:
-  feature: header6.jpg
+  feature: header7.jpg
  
 ---
 
