@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: About myself
+tags: [about, Sander, Wubben, description, bio]
+modified: 2015
 comments: true
 image:
-  feature: sample-image-2.jpg
+  feature: https://www.flickr.com/photos/wubboomstam/14233457270/in/album-72157644758609210/lightbox/
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
