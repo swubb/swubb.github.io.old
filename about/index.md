@@ -5,9 +5,8 @@ tags: [about, Sander, Wubben, description, bio]
 modified: 2015
 comments: true
 image:
-  feature: https://www.flickr.com/photos/wubboomstam/14233457270/in/album-72157644758609210/lightbox/
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: header1.jpg
+ 
 ---
 
 DERKA DERKA DERKA DERKA DERKA
