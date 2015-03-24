@@ -4,13 +4,13 @@
   url: /about/
 
 - title: Research
-  url: /posts/
+  url: /research/
   
 - title: Teaching
-  url: /posts/
+  url: /teaching/
 
 - title: Publications
-  url: /theme-setup/
+  url: /publications/
 
 - title: Demos
-  url: http://mademistakes.com
+  url: /publications/
