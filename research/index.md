@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About myself
-tags: [about, Sander, Wubben, description, bio]
+title: Publications
+tags: [pulications, Sander, Wubben, proceedings, acl, lrec, clin, conference, paper]
 modified: 2015
 comments: true
+share: false
 image:
   feature: header8.jpg
 
 ---
 
-## Research
 
 <div class="content ">
 
