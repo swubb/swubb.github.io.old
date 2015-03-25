@@ -12,10 +12,7 @@ image:
 ## Research
 
 <div class="content ">
-							<p class="languages">
-							</p>
-			<div class="view_title"><div class="rendering rendering_person rendering_compact rendering_person_compact"><h2 class="title"><span class="person">S. Wubben</span></h2><p class="type"><span class="type_family">Person</span></p></div><div class="rendering rendering_person rendering_personorganisationsnamelistportal rendering_person_personorganisationsnamelistportal"><ul class="relations organisations"><li><a rel="Organisation" href="https://pure.uvt.nl/portal/en/organisations/department-of-communication-and-information-sciences(32d6f28c-d044-4c0b-91c2-6150463c8276).html" class="link"><span>Department of Communication and Information Sciences</span></a><span class="minor dimmed"> - Universitair Docent</span></li><li><a rel="Organisation" href="https://pure.uvt.nl/portal/en/organisations/creative-computing(ffd84c90-5fe5-4131-a1d7-8381013c6364).html" class="link"><span>Creative Computing</span></a></li></ul></div>
-			</div>
+						
 		<ul class="tabs" style="margin-bottom: 10px;">
 			<li><a class="portal_link" href="https://pure.uvt.nl/portal/en/persons/s-wubben(9eee9cb7-9fbe-4546-81ac-c7cc48562a71).html"><span>Overview</span></a></li>
 				<li class="selected"><a class="portal_link" href="https://pure.uvt.nl/portal/en/persons/s-wubben(9eee9cb7-9fbe-4546-81ac-c7cc48562a71)/publications.html"><span>Publications</span></a>
