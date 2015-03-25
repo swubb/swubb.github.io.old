@@ -3,7 +3,8 @@ layout: page
 title: About myself
 tags: [about, Sander, Wubben, description, bio]
 modified: 2015
-comments: true
+comments: false
+share: false
 image:
   feature: header1.jpg
 
