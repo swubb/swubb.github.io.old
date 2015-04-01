@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About myself
+title: Publications
 tags: [about, Sander, Wubben, description, bio]
 modified: 2015
 comments: true
