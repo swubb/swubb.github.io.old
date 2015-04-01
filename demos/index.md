@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Demos
+share: false
 tags: [demo, demos, readab.ly, perscheck, semanticore]
 modified: 2015
 comments: true
