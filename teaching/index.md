@@ -1,25 +1,24 @@
 ---
 layout: page
-title: About myself
+title: Teaching
 tags: [about, Sander, Wubben, description, bio]
 modified: 2015
 comments: true
+share: false
 image:
   feature: header9.jpg
- 
+
 ---
+Soon more information on teaching here!
 
-DERKA DERKA DERKA DERKA DERKA
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Courses I taught/ co-taught at Tilburg University:
 
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* Python: Data Processing: Use / Development / Seminar.
+* Information Search
+* Social Intelligence
+* Research Workshop HAIT
+* Text Analysis
+* Interactive Journalism
+* Interactive Visualization
+* Evolution of the Internet
+* Online Marketing
