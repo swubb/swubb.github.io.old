@@ -1,11 +1,10 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+
 
 - title: Research
   url: /research/
-  
+
 - title: Teaching
   url: /teaching/
 
@@ -14,3 +13,6 @@
 
 - title: Demos
   url: /demos/
+
+- title: Blog
+  url: /blog/
